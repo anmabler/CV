@@ -1,0 +1,24 @@
+body{
+    /* includes margin and padding in height/width */
+    box-sizing: border-box;
+}
+#flexContainer{
+    display: flex;
+}
+aside, #rightSection{
+    border: 2px solid black;
+    /* covers barely the whole view height */
+    min-height: 95vh;
+    
+}
+aside{
+    /* margin-left: 30vw; */
+    max-width: 30%;
+}
+img{
+    height: 20vh;
+    width: auto;
+    border-radius: 3rem;
+    margin: 2rem;
+}
+
