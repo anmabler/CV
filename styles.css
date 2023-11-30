@@ -26,5 +26,8 @@ img{
 }
 
 .contactContainer{
-    padding: 2rem;
+    padding: 1rem;
+}
+.contactInfo{
+    margin: 1rem;
 }
