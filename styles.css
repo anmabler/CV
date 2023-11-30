@@ -11,6 +11,9 @@ aside, #rightSection{
     min-height: 95vh;
     
 }
+#rightSection{
+    padding: 2rem;
+}
 aside{
     /* margin-left: 30vw; */
     max-width: 30%;
@@ -22,3 +25,6 @@ img{
     margin: 2rem;
 }
 
+.contactContainer{
+    padding: 2rem;
+}
