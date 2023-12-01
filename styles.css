@@ -51,3 +51,7 @@ p{
 a:visited{
     color: black;
 }
+.nameContainer{
+    text-align: center;
+    font-size:x-large;
+}
