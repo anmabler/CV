@@ -1,5 +1,7 @@
 body{
     /* includes margin and padding in height/width */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
     box-sizing: border-box;
 }
 #flexContainer{
@@ -30,4 +32,16 @@ img{
 }
 .contactInfo{
     margin: 1rem;
+}
+h4{
+    margin: 0.5rem;
+}
+p{
+    margin: 0.5rem;
+}
+.infoText{
+    margin-bottom: 2rem;
+}
+a:visited{
+    color: black;
 }
