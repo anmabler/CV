@@ -8,17 +8,19 @@ body{
     display: flex;
 }
 aside, #rightSection{
-    border: 2px solid black;
+    
     /* covers barely the whole view height */
     min-height: 95vh;
     
 }
 #rightSection{
     padding: 2rem;
+    border: 2px solid rgb(225, 225, 250);
 }
 aside{
     /* margin-left: 30vw; */
     max-width: 30%;
+    background-color: rgb(225, 225, 250);
 }
 img{
     height: 20vh;
